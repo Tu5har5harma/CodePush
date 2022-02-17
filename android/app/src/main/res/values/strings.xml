@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LearnCP</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">UiZuGqcG9qSigNVuGhgdfqe8mDOxZkhosJkOW</string>
+</resources>
